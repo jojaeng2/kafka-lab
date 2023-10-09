@@ -3,8 +3,7 @@ package kafka.demo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import kafka.demo.chapter3.ProduceFireForgot;
-import kafka.demo.chapter3.ProducerSync;
+import kafka.demo.chapter3.producer.ProducerSync;
 
 @SpringBootApplication
 public class DemoApplication {

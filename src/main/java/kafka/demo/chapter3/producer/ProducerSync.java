@@ -1,4 +1,4 @@
-package kafka.demo.chapter3;
+package kafka.demo.chapter3.producer;
 
 import java.util.Properties;
 
